@@ -1,23 +1,23 @@
 Q1. What is your first and last name? (This is important so that we can link your GitHub username to you.)
 
-A1. <WRITE YOUR ANSWER TO Q1 HERE>
+A1. Emmie Winckler
 
 Q2. Do you have any programming experience? If so, how much, and what programming languages have you used?
 
-A2. <WRITE YOUR ANSWER TO Q2 HERE>
+A2. I have experience using java, javascript, gdscript, and kotlin. I took AP computer science principles and AP computer science A in highschool, and did multiple personal programming projects including making a boid simulation in godot. 
 
 Q3. Do you have experience writing code in C++?
 
-A3. <WRITE YOUR ANSWER TO Q3 HERE>
+A3. I do not have any experience with C++, however I know its very similar to java and java based languages.
 
 Q4. How do you think learning to solve computational problems and write programs could benefit an engineer, regardless of their field?
 
-A4. <WRITE YOUR ANSWER TO Q4 HERE>
+A4. Many times it is easier to have a computer do a complex calculation or computation than it would be for you to brute force it on paper. Knowing how code works and being able to write your own programs is very useful to solve engineering problems. 
 
 Q5. Do you think learning to solve computational problems and write programs could benefit you in everyday life? If so, how?
 
-A5. <WRITE YOUR ANSWER TO Q5 HERE>
+A5. Learning to solve computational problems will benefit me in everyday life because knowing how to think algorithmically is universally useful for breaking complex problems down into more managable chunks, and generally making sense of them.
 
 Q6. We may have time for a special topics lecture at the end of the term, depending on how the term unfolds. Are there any special topics related to computer science that you're curious about? (e.g., an introduction to machine learning, computer graphics, object oriented programming, functional programming, frontend development, backend development, databases, cloud development, mobile app development, etc.)
 
-A6. <WRITE YOUR ANSWER TO Q6 HERE>
+A6. I would be interested in learning about many different types of simulation, and also computer graphics.
